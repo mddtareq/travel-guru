@@ -1,0 +1,44 @@
+
+
+.intro{
+    text-align:left;
+    margin:0;
+}
+.hotel-details{
+    text-align:left;
+}
+.hotel-details .info{
+    color: rgb(79, 79, 79);
+}
+.hotel img{
+    width:100%;
+    height: 100%;
+}
+.rating img{
+    margin-bottom:4px;
+    height: 15px;
+    width:15px;
+}
+.rating .star-rating{
+    font-weight:bold;
+    font-size:11px;
+}
+.rating .price{
+    font-weight:bold;
+}
+.rating .night{
+    color: rgba(106, 103, 103, 0.427);
+}
+.rating .price-total{
+    color: rgba(11, 10, 10, 0.516);
+}
+.map{
+    border-radius:5px;
+}
+.mar-top{
+    margin-bottom:20px;
+}
+.book-details{
+    border-radius:5px;
+    background-color: rgba(255, 255, 255, 0.7);
+}

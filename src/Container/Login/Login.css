@@ -1,0 +1,106 @@
+.log{
+    border-radius:2px;
+    padding: 15px;
+    background-color:rgba(255, 255, 255, 0.653);
+}
+.InUp{
+    border:1px solid rgba(0, 0, 0, 0.282);
+    margin-bottom: 10px;
+}
+.head{
+    margin-top:15px;
+}
+.InUp input{
+    color:black;
+    outline:none;
+    width:80%;
+    margin-bottom: 15px;
+    background-color:rgba(255, 255, 255, 0);
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.316);
+}
+
+.warning{
+    color:red;
+    font-size:12px;
+}
+.btn-create{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight:500;
+    border: none;
+    border-radius:2px;
+    width: 80%;
+    background-color:hsl(37, 95%, 54%)!important;
+    padding:5px;
+}
+.toggle{
+    border: none;
+    background-color:rgba(255, 255, 255, 0);
+    color:#1a34f9; 
+}
+.line{
+    width:80%;
+    margin:auto;
+}
+.line hr{
+    border-top:1px solid black;
+    width:45%;
+    opacity:.3;
+}
+.line p{
+    font-weight:bold;
+    margin-top:3px;
+}
+.facebook{
+    border:1px solid rgba(0, 0, 0, 0.234);
+    height:30px;
+    border-radius:50px;
+    background-color:white;
+}
+.facebook img{
+    padding:2px;
+    width:30px;
+    height:30px;
+}
+.facebook p{
+    font-weight:bolder;
+    margin-top:15px;
+    font-size:16px;
+    opacity:.5;
+}
+.google{ 
+    border:1px solid rgba(0, 0, 0, 0.234);
+    height:30px;
+    border-radius:30px;
+    background-color:white;
+}
+.google img{
+    padding:2px;
+    width:30px;
+    height:30px;
+}
+.google p{
+    font-weight:bolder;
+    margin-top:15px;
+    font-size:16px;
+    opacity:.5;
+}
+.social-btn button{
+    padding:0px;
+    text-decoration:none; 
+    background-color: rgba(255, 255, 255, 0);
+    border:none;
+    height:30px;
+    width:80%;
+}
+button:focus{
+    outline:0!important;
+}
+.social-btn{
+    margin-bottom:15px;
+}
+.card-text{
+    text-align:left;
+    padding:5px;
+}

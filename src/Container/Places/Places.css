@@ -1,0 +1,59 @@
+.places p{
+    text-align:left;
+}
+/* .places{
+    margin-top: 22%;
+} */
+.photo img{
+    position:relative;
+    border-radius:20px;
+    height: 500px;
+}
+.photo h4{
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    color: white;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.photo button{
+    padding: 10px;
+    border: none;
+    width: 75%;
+    background:none;
+}
+.indicator div ol li
+    {
+        /* margin-bottom:-50px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 50%;
+        height: 10px;
+        width: 10px; */
+        display:none;
+
+    }
+.carousel-control-prev{
+    margin-left:35%;
+    margin-top:62%;
+    height: 30px;
+    width: 30px!important;
+    border-radius: 50%;
+    background-color: rgb(210, 210, 210);
+    color: black;
+}
+.carousel-control-next{
+    margin-right:35%;
+    margin-top:62%;
+    height: 30px;
+    width: 30px!important;
+    border-radius: 50%;
+    background-color: rgb(215, 215, 215);
+    color: black;
+}
